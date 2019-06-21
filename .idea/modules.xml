@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance-master-68507f2a343586c4212f47e7044ade61b5a50a80adaptive-loadbalance.git/workspace-gateway/src/main/main.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance-master-68507f2a343586c4212f47e7044ade61b5a50a80adaptive-loadbalance.git/workspace-gateway/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/adaptive-loadbalance-master-68507f2a343586c4212f47e7044ade61b5a50a80adaptive-loadbalance.git/workspace-provider/src/main/main1.iml" filepath="$PROJECT_DIR$/adaptive-loadbalance-master-68507f2a343586c4212f47e7044ade61b5a50a80adaptive-loadbalance.git/workspace-provider/src/main/main1.iml" />
-    </modules>
-  </component>
-</project>
